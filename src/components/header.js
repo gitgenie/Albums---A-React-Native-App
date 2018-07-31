@@ -15,7 +15,11 @@ const styles = {
 		fontSize: 20
 	},
 	viewStyle : {
-		backgroundColor : '#f0f0f0'
+		backgroundColor : '#f0f0f0',
+		justifyContent: 'center',
+		alignItems: 'center',
+		paddingTop: 15,
+		height: 60
 	}
 }
 export default Header;
